@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/chumasky_dc" target="blank"><img src="https://img.shields.io/twitter/follow/chumasky_dc?logo=twitter&style=for-the-badge" alt="chumasky_dc" /></a> </p>
 
-- 🔭 I’m currently working on **A Calculator App**
+- 🔭 I’m currently working on **A Project**
 
 - 🌱 I’m currently learning **Frameworks**
 
 - 👯 I’m looking to collaborate on **DevOps**
 
-- 💬 Ask me about **Java, Python**
+- 💬 Ask me about **Java, Python, C# (.Net)**
 
 - 📫 How to reach me **chumaskydon@gmail.com**
 
